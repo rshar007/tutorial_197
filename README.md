@@ -12,14 +12,14 @@ theory.   I  will  incorporate  a  formal  approach  to  the  subject,
 completing a paper for this tutorial as proof of my work.
 
 ## Outline of the proposed course of study
-Week 3 - Reading and review of early work on DC
-Week 4 - Reading and review of modern work on DC
-Week 5 - Formalization of problem
-Week 6 - Organization of paper
-Week 7 - Draft of paper
-Week 8 - Review of draft
-Week 9 - Final paper preparation
-Week 10 - Completion of paper
+- Week 3: Reading and review of early work on DC
+- Week 4:  Reading and review of modern work on DC
+- Week 5:  Formalization of problem
+- Week 6:  Organization of paper
+- Week 7:  Draft of paper
+- Week 8:  Review of draft
+- Week 9:  Final paper preparation
+- Week 10: Completion of paper
 
 ## Tangible evidence
 As described above, I will complete a paper as proof of my work during
